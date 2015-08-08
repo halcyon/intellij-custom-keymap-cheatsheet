@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: alembic:0.2.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/alembic/alembic/0.2.1/alembic-0.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
